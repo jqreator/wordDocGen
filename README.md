@@ -1,5 +1,5 @@
 # wordDocGen
-Generates docx documents filled with random characters in mass for load testing and other applications. The default document size is 1MB.
+Generates docx documents filled with random characters for load testing and other applications. The default document size is 1MB.
 
 Prerequisites:
 This script leverages the docx module from: https://python-docx.readthedocs.io/en/latest/
